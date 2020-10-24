@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+ul{
+
+    text-align: left;
+}
+body{
+   background-image: url("imagesresume/skills.jpg");
+    
+}
+#soft{
+    text-align: left;
+    font-size: 80%;
+}
+#tech{
+    text-align:left;
+    font-size: 80%;
+}
+label{
+    color: darkslateblue;
+    font-size: 220%;
+}

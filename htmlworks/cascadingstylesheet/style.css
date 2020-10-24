@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    
+}
+body{
+    background-color:rgb(32, 89, 66) ;
+}
+h2{
+    color:#725942
+}
+#first{
+    color:blue;
+}
+div{
+    border-style: dotted;
+    border-color: chartreuse;
+}
+#second{
+    border-style: dotted;
+    border-color: crimson;
+}
+.third{
+    border-style: dotted;
+    border-color: darkgoldenrod;
+    background-color: rosybrown;
+}
+li{
+    color:red
+}

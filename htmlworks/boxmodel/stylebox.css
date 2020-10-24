@@ -1,0 +1,23 @@
+/*h1{
+    color:red
+}*/
+#top{
+ width:20%;
+color:red;
+border-style: dotted;
+border-color: cadetblue;
+margin-left: 25%;
+padding-left: 25%;
+}
+#bottom{
+    width:20%;
+    color:blueviolet;
+    border-style: dotted;
+    border-color: darkblue;
+    margin-top: 20%;
+    margin-left: 20%;
+    padding-left: 25%;
+}
+#box{
+    font-family: 'Ranchers', cursive;
+}
